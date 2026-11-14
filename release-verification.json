@@ -1,0 +1,30 @@
+{
+  "apk": "FVShare_Android16_compat7.apk",
+  "bytes": 149349213,
+  "sha256": "a153c92b239795f59a2c2a8f3db6bcb9d4dd4f0b4ab1cd3cd0118e7b7f7703c3",
+  "manifest": {
+    "versionCode": "251",
+    "versionName": "2.4.5-a16-compat7",
+    "compileSdkVersion": "28",
+    "compileSdkVersionCodename": "9",
+    "package": "com.freevisiontech.fvmobile",
+    "platformBuildVersionCode": "28",
+    "platformBuildVersionName": "9"
+  },
+  "sdk": {
+    "minSdkVersion": "21",
+    "targetSdkVersion": "28"
+  },
+  "zip_crc": "passed",
+  "arm64_elf_count": 15,
+  "elf_load_16kb_alignment": "passed",
+  "signature_schemes": [
+    "v1",
+    "v2",
+    "v3"
+  ],
+  "zipalign": "passed",
+  "certificate_sha256": "8db84bf777c3dd8a1341d3d8daf275710cfea8bfa2b520dd19384ab2e2d21093",
+  "signature_warning": "META-INF/services/javax.annotation.processing.Processor not protected by signature",
+  "runtime_validation": "User reports compat7 scanning, connection, gimbal control and capture working on Xiaomi 14 and Xiaomi 17 Ultra, HyperOS 4.0.5.0. Not independently retested by the publishing assistant."
+}

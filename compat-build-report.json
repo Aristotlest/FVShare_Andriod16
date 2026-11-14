@@ -1,0 +1,48 @@
+{
+  "pdfium_source": "https://github.com/appuraja1/PdfiumAndroid-16kb",
+  "commit": "8037a684c47fec2e62ec3e9e89e616eac0d596dd",
+  "native_libraries": {
+    "libmodpng.so": {
+      "sha256": "9afbfd2b7c820270bd72678572d374fd737ffa0f1a891c728ff0f6486db68fb3",
+      "alignments": [
+        16384,
+        16384
+      ]
+    },
+    "libmodft2.so": {
+      "sha256": "52c60423643d785a38f10fb988a6dbee30fb5a4272e948c8a7d8a2086be4be5a",
+      "alignments": [
+        16384,
+        16384
+      ]
+    },
+    "libmodpdfium.so": {
+      "sha256": "b4924c4b913a87bbecc5bfb41a4e319bebbccb60433c80a24f93adc1eb227d9f",
+      "alignments": [
+        16384,
+        16384,
+        16384
+      ]
+    },
+    "libjniPdfium.so": {
+      "sha256": "e9761de88b7aa71199e8fb0c0ab46212145081880e5efe02a608823d889a57d7",
+      "alignments": [
+        16384,
+        16384,
+        16384
+      ]
+    },
+    "libc++_shared.so": {
+      "sha256": "613c42e8403dbf4c3e383f39ec3b76cfd7b8387f8d5e508960cdfbd55de76310",
+      "alignments": [
+        65536,
+        65536
+      ]
+    }
+  },
+  "preserved_original_assets": [
+    "assets/gmu.bin"
+  ],
+  "target_sdk": 28,
+  "status": "prepared; runtime validation pending"
+}

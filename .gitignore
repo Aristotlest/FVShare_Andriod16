@@ -1,0 +1,23 @@
+# Keep original and generated application binaries out of Git.
+*.apk
+*.xapk
+*.obb
+*.apks
+*.aab
+*.idsig
+# Never publish signing material or credentials.
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+.env
+.env.*
+# Build/cache outputs.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+.decoded/
